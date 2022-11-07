@@ -1,7 +1,8 @@
 import './styles.scss';
 
 function Home() {
-  return <></>;
+  return <>
+  </>;
 }
 
 export default Home;
