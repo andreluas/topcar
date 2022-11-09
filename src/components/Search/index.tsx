@@ -1,7 +1,7 @@
 import './styles.scss';
 
-function Home() {
+function Search() {
   return <></>;
 }
 
-export default Home;
+export default Search;

@@ -1,8 +1,8 @@
 $theme-colors: (
-  'primary': #F78B00,
+  'primary': #f78b00,
+  'secondary': #00285f,
 );
 
-$body-bg: #FFFFFF;
-$body-color: #000000;
+$body-bg: #fff;
 
 @import '~bootstrap/scss/bootstrap.scss';
