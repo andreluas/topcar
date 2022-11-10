@@ -1,7 +1,12 @@
+import Search from 'components/Search';
 import './styles.scss';
 
 function Home() {
-  return <></>;
+  return (
+    <div>
+      <Search />
+    </div>
+  );
 }
 
 export default Home;
