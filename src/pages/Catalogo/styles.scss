@@ -1,0 +1,21 @@
+.product-grid-container {
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 576px) {
+  .row {
+    min-width: 576px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    width: 1000px;
+  }
+}
